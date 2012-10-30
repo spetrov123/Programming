@@ -1,3 +1,4 @@
+# da se sabere vremet za testove s vreme > 5
 require 'csv'
 
 sum = 0.0
