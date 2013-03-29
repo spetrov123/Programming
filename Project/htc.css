@@ -2,7 +2,7 @@
 
 #MainWall{
 	float: right;
-	height: 100%;
+	height:100%;
 	width: 100%;
 
 }
@@ -45,5 +45,8 @@
 	height: 30%;
 }
 
-
+.menu{
+	float:right;
+	min-height:500px;
+}
 
