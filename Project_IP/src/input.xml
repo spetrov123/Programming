@@ -1,0 +1,9 @@
+<games team="a">
+	<game team="b">
+		<points player="k" count="5"/>
+		<points player="t" count="6"/>
+	</game>
+	<game team="c">
+		<points player="k" count="10"/>
+	</game>
+</games>
